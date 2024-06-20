@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vid2.1", "vid2.1\vid2.1.csproj", "{FD90A767-DCD2-49E0-B155-203B6E39EA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vid2.hr", "vid2.hr\vid2.hr.csproj", "{DAB15FAA-6E46-4F26-8406-813567AA5429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD90A767-DCD2-49E0-B155-203B6E39EA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD90A767-DCD2-49E0-B155-203B6E39EA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD90A767-DCD2-49E0-B155-203B6E39EA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD90A767-DCD2-49E0-B155-203B6E39EA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB15FAA-6E46-4F26-8406-813567AA5429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB15FAA-6E46-4F26-8406-813567AA5429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB15FAA-6E46-4F26-8406-813567AA5429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB15FAA-6E46-4F26-8406-813567AA5429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19CDB1E5-F206-47B7-A2B5-F6D61FA9E07D}
+	EndGlobalSection
+EndGlobal
